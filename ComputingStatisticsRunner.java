@@ -24,6 +24,7 @@ public class ComputingStatisticsRunner {
 //       System.out.println(analysis.largestLoanCountry());
 //       System.out.println(analysis.smallestLoanCountry());
 //       System.out.println(analysis.avgDaysToFund());
+//       System.out.println(analysis.largestLoanKenya());
 //       System.out.println(analysis.avgLoanPhilippines());
 //       System.out.println(analysis.longestToFundCountry());
 //       System.out.println(analysis.variance());
