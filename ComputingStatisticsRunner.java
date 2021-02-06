@@ -5,7 +5,7 @@ import java.text.*;
 public class ComputingStatisticsRunner {
    public static void main(String[] args) throws FileNotFoundException {
       // Specifies the data file to be used.
-      String file = "kiva_loans_verified.csv";
+      String file = "kiva_loans_small.csv";
       
       // Creates an ArrayList to store the data and calls the readData() method. 
       ArrayList<Loan> list = readData(file);
